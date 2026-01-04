@@ -16,7 +16,7 @@ A beginner-friendly introduction to multi-agent systems featuring:
 
 **Perfect for learning**: Agent handoffs, conditional tool execution, and basic workflow orchestration.
 
-**Navigate to**: [Fast-food Restaurant Project](./Fast-food%20Restaurant%20Project%20-%20Openai%20Agent-SDK/)
+**Navigate to**: [Fast-food Restaurant Project](https://github.com/Hammadafzal55/Openai-AgentsSDK-Projects/tree/main/Fast-food%20Restaurant%20Project%20%20-%20Openai%20Agent-SDK)
 
 ---
 
@@ -31,7 +31,7 @@ An enterprise-grade customer service simulation featuring:
 
 **Perfect for learning**: Modular code organization, guardrails, handoffs, and complex workflows.
 
-**Navigate to**: [Bank Environment Project](./Bank%20Environment%20Project%20-%20Openai%20Agent-SDK/)
+**Navigate to**: [Bank Environment Project](https://github.com/Hammadafzal55/Openai-AgentsSDK-Projects/tree/main/Bank%20Environment%20Project%20-%20Openai%20Agent-SDK)
 
 ---
 
